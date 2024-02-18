@@ -9,10 +9,12 @@ The Internet of Things (IoT) has rapidly expanded, connecting various objects an
 # System Model
 ![image](https://github.com/Shag0r/Fortifying-Underwater-Wireless-Communication-with-Blockchain-Powered-Data-Security/assets/101504353/01023f0d-25a9-45be-bc35-095ed213d5ca)
 
+# Data Transmission
+![datapassing form nodes](https://github.com/Shag0r/Fortifying-Underwater-Wireless-Communication-with-Blockchain-Powered-Data-Security/assets/101504353/acb881ec-8794-4f95-b2f6-a3cbac84e05a)
+
+
 # Performance Overhead:
-We have shown qualitative comparison in Table IV where
-various recent related works have compared to our proposed
-model. Our model demonstrates strong resistance against at-
+ Our model demonstrates strong resistance against at-
 tacks, protecting data security in underwater communication
 networks from a range of risks and vulnerabilities. With the in-
 tegration of advanced security features like dynamic key man-

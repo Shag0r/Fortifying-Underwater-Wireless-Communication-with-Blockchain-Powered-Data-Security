@@ -28,7 +28,3 @@ independent approach ensures that even under challenging or
 detached conditions, data transmission and communication in
 underwater settings stay secure and trustworthy.
 
-# ACKNOWLEDGMENT
-This work was supervised by Md. Jahidul Islam, Assistant
-Professor, Department of Computer Science and Engineering
-of Green University of Bangladesh (GUB).
